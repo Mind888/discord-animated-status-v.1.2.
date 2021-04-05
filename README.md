@@ -1,0 +1,1 @@
+# discord-animated-status-v.1.2.
